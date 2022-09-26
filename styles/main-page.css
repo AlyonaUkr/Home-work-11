@@ -1,0 +1,74 @@
+.main-page {
+    margin: 129px 75px 172px 67px;
+
+}
+
+.main-page-flex {
+    display: flex;
+}
+
+.main-page-title {
+    width: 552px;
+    height: 210px;
+    font-family: GraphikLCG-Semibold;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 51px;
+}
+
+.main-page-text {
+    width: 471px;
+    height: 140px;
+    font-family: GraphikLCG-Regular;
+    font-size: 25px;
+    line-height: 35px;
+    color: #000000;
+    margin-bottom: 51px;
+}
+
+.button-main-page-free {
+    width: 160px;
+    height: 60px;
+    background: #FF6336;
+    border-radius: 0px;
+    font-family: GraphikLCG-Regular;
+    font-size: 16px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    margin-right: 10px;
+}
+
+.button-main-page-free:hover {
+    background-color: #f9af9b;
+}
+
+.button-demo {
+    background-color: #FFFFFF;
+    width: 160px;
+    height: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0px;
+    font-family: GraphikLCG-Regular;
+    font-size: 16px;
+    line-height: 60px;
+    text-align: center;
+    color: #000000;
+    cursor: pointer;
+}
+
+.button-demo:hover {
+    background-color: #EEEEEE;
+}
+
+.main-page-description {
+    font-family: GraphikLCG-Regular;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+    margin-top: 25px;
+}

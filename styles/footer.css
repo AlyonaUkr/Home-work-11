@@ -1,0 +1,114 @@
+.footer-bc {
+    background-color: #EEEEEE;
+    padding: 92px 75px 43px;
+}
+
+.footer-first-part {
+    margin-bottom: 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.case-studies {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.footer-title {
+    font-family: GraphikLCG-Semibold;
+    font-size: 40px;
+    line-height: 50px;
+    color: #000000;
+    margin-bottom: 28px;
+}
+
+.specialized-footer {
+    margin: 31px 0 11px;
+}
+
+.footer-text {
+    width: 290px;
+    font-family: GraphikLCG-Regular;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.case-studies a {
+    font-family: GraphikLCG-Semibold;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.case-studies a:hover {
+    color: #FF6336;
+}
+
+.footer-cards {
+    display: flex;
+}
+
+.footer-cards-list {
+    width: 221px;
+}
+
+.footer-card-title {
+    font-family: GraphikLCG-Semibold;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    margin-bottom: 21px;
+}
+
+.footer-cards-list .item {
+    font-family: GraphikLCG-Regular;
+    font-size: 15px;
+    line-height: 15px;
+    color: #000000;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.footer-cards-list .item a:hover {
+    color: #FF6336;
+}
+
+.footer-line {
+    border: 1px solid black;
+    display: block;
+    margin: 0;
+}
+
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 52px;
+}
+
+.footer-logo-flex {
+    display: flex;
+}
+
+.footer-logo-text {
+    width: 301px;
+    font-family: GraphikLCG-Regular;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+    margin-left: 14px;
+}
+
+.footer-rights {
+    margin-right: 76px;
+}
+
+.footer-rights-text {
+    font-family: GraphikLCG-Regular;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}

@@ -1,0 +1,53 @@
+.section-posibilities {
+    background-color: #FFF8E4;
+    padding: 120px 126px 72px 117px;
+}
+
+.posibilities-question {
+    font-family: GraphikLCG-Semibold;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 79px;
+}
+
+.posibilities-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.posibilities-image {
+    width: 160px;
+    height: 120px;
+    margin-bottom: 23px;
+}
+
+.cards-posibilities {
+    width: 330px;
+    height: 276px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 75px;
+}
+
+.posibilities-title {
+    font-family: GraphikLCG-Semibold;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 23px;
+}
+
+.posibilities-text {
+    height: 75px;
+    font-family: GraphikLCG-Regular;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+}

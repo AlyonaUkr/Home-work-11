@@ -1,0 +1,98 @@
+@font-face {
+    font-family: GraphikLCG-Regular;
+    src: url(../fonts/GraphikLCG-Regular.ttf);
+    width: 400px;
+}
+
+@font-face {
+    font-family: GraphikLCG-Semibold;
+    src: url(../fonts/GraphikLCG-Semibold.ttf);
+    width: 600px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header-bc {
+    background-color: #FFFFFF;
+    margin: 25px 51px;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.conteiner-list {
+    display: flex;
+    align-items: center;
+}
+
+.logotype {
+    margin-right: 51px;
+}
+
+.header-list > .item {
+    display: inline-block;
+}
+
+.item a {
+    text-decoration: none;
+    font-family: GraphikLCG-Regular;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.header-list .margin-left~.item {
+    margin-left: 57px;
+}
+
+.header-list a:hover {
+    color: #FF6336;
+}
+
+.button-login {
+    background-color: #FFFFFF;
+    width: 120px;
+    height: 45px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0px;
+    font-family: GraphikLCG-Semibold;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 45px;
+    text-align: center;
+    color: #000000;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.button-login:hover {
+    background-color: #EEEEEE;
+}
+
+.button-free {
+    width: 120px;
+    height: 45px;
+    background: #FF6336;
+    border-radius: 0px;
+    border: none;
+    font-family: GraphikLCG-Semibold;
+    font-size: 16px;
+    line-height: 45px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button-free:hover {
+    background-color: #f9af9b;
+}
+
+.line {
+    border: 1px solid #EEEEEE;
+    display: block;
+    margin: 0;
+}

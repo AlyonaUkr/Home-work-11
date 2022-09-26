@@ -1,0 +1,47 @@
+.section-integrations {
+    background-color: #FFFFFF;
+    padding: 165px 0 162px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.integrations-title {
+    width: 791px;
+    height: 150px;
+    font-family: GraphikLCG-Semibold;
+    font-size: 65px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000;
+}
+
+.integrations-text {
+    width: 539px;
+    height: 60px;
+    font-family: GraphikLCG-Regular;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+.integrations-button {
+    font-family: GraphikLCG-Regular;
+    font-size: 16px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 193px;
+    height: 60px;
+    background: #FF6336;
+    border-radius: 0px;
+    border: none;
+    cursor: pointer;
+    margin-top: 32px;
+}
+
+.integrations-button:hover {
+    background-color: #f9af9b;
+}

@@ -1,0 +1,23 @@
+.section-interview {
+    background-color: #C9E8F2;
+    padding: 53px 75px 105px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-interview-text {
+    width: 920px;
+    font-family: GraphikLCG-Regular;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 23px;
+}
+
+.section-interview-name {
+    font-family: GraphikLCG-Regular;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+    margin-bottom: 10px;
+}

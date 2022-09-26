@@ -1,0 +1,41 @@
+.section-big-cards {
+    margin: 0 75px 0;
+}
+
+.title-big-cards {
+    width: 493px;
+    font-family: GraphikLCG-Semibold;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.text-big-cards {
+    width: 520px;
+    font-family: GraphikLCG-Regular;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 35px;
+}
+
+.start-now {
+    text-decoration: none;
+    font-family: GraphikLCG-Semibold;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.start-now:hover {
+    color: #FF6336;
+}
+
+.flex-big-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}

@@ -1,0 +1,52 @@
+.section-reviews {
+    background-color: #DABC98;
+    padding: 80px 54px 84px 134px;
+    display: flex;
+}
+
+.stars-reviews-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 71px;
+}
+
+.cake-flex {
+    display: flex;
+    align-items: center;
+}
+
+.section-reviews-title {
+    width: 461px;
+    font-family: GraphikLCG-Semibold;
+    font-size: 35px;
+    line-height: 50px;
+    color: #000000;
+    margin-left: 67px;
+}
+
+.vl {
+    border-left: 1px solid black;
+    height: 168px;
+    margin-left: 124px;
+}
+
+.section-reviews-text {
+    font-family: GraphikLCG-Regular;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.75px;
+    color: #000000;
+    margin-top: 15px;
+}
+
+.reviews-logo {
+    width: 35px;
+    height: 35px;
+}
+
+.image-stars {
+    width: 128px;
+    height: 20px;
+    margin-top: 20px;
+}
