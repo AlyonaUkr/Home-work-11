@@ -1,6 +1,9 @@
 .section-try-it-free {
     background-color: #FF9C7D;
-    padding: 119px 161px;
+    padding: 119px 0 161px;
+}
+
+.section-try-it-free-flex {
     display: flex;
     flex-direction: column;
     align-items: center;

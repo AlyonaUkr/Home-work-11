@@ -1,6 +1,9 @@
 .section-interview {
     background-color: #C9E8F2;
-    padding: 53px 75px 105px ;
+    padding: 53px 0 105px ;
+}
+
+.section-interview-flex {
     display: flex;
     justify-content: space-between;
 }

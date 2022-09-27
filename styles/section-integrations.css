@@ -1,6 +1,9 @@
 .section-integrations {
     background-color: #FFFFFF;
     padding: 165px 0 162px;
+}
+
+.section-integrations-flex {
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -1,6 +1,9 @@
 .section-reviews {
     background-color: #DABC98;
-    padding: 80px 54px 84px 134px;
+    padding: 80px 0 84px;
+}
+
+.section-reviews-flex {
     display: flex;
 }
 

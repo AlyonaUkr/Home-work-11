@@ -16,10 +16,15 @@
 
 .header-bc {
     background-color: #FFFFFF;
-    margin: 25px 51px;
+    padding: 34px 0;
 }
 
-.conteiner {
+.fix-size-conteiner {
+    width: 1290px;
+    margin: 0 auto;
+}
+
+.header-flex {
     display: flex;
     justify-content: space-between;
 }
@@ -46,7 +51,7 @@
 }
 
 .header-list .margin-left~.item {
-    margin-left: 57px;
+    margin-left: 51px;
 }
 
 .header-list a:hover {
